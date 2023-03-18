@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">new_coronavirus</string>
+    <string name="title_home">疫情速讯</string>
+    <string name="title_dashboard">看见疫情</string>
+    <string name="title_notifications">真假谣言</string>
+    <string name="position">position:</string>
+</resources>
